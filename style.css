@@ -30,7 +30,7 @@ header{
     color: #888;
     font-weight: 600;
     padding-bottom: 4px;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 .navigation ul li a:hover{
     color: #fff;
@@ -71,7 +71,7 @@ main section{
     border-radius: 20px;
     color: #fff;
     font-size: 1.5rem;
-    transition: step-end;
+    transition: step-start;
 }
 .main-text .btn:hover{
     opacity: .85;
@@ -93,7 +93,7 @@ main section{
     border-radius: 50%;
     cursor: pointer;
     box-shadow: 1px 1px #888;
-    transition: all 0.5s;
+    transition: all 0.1s;
 }
 .main-text .content span:hover{
     opacity: .80;
@@ -117,7 +117,7 @@ main section{
     background: #ae0617;
 }
 .main-img{
-    transition: all 1s ease;
+    transition: all 0.1s ease;
     z-index: 100;
 }
 .main-img img{

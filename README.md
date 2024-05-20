@@ -1,4 +1,4 @@
-<h1>Projeto: Landing Page do iPhone com Troca de Cores</h1>
+<h1>Projeto: Landing Page - iPhone</h1>
 
 Descrição:
 Este projeto é uma landing page interativa para a apresentação de um iPhone, permitindo aos usuários visualizar o dispositivo em diferentes cores. A página é projetada para ser atraente e informativa, destacando as principais características e variantes do iPhone. A funcionalidade de troca de cores é implementada para melhorar a experiência do usuário, permitindo uma visualização dinâmica do produto.
